@@ -1,6 +1,15 @@
-# Hi, my name is Talha Rana.
+<h1 align="center">Hi 👋, I'm Talha Rana</h1>
+<h3 align="center">A passionate Web developer from Pakistan</h3>
+
 # 💫 About Me:
-I am currently learning about Machine Learning and Data Science.
+
+- 🌱 I’m currently learning **Machine learning and Data Science**
+
+- 🤝 I’m looking for help with **Flutter**
+
+- 💬 Ask me about **React, C#, C++, Python**
+
+- 📫 How to reach me **talharana193200.5@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TalhaRana12) 
@@ -16,5 +25,4 @@ I am currently learning about Machine Learning and Data Science.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalhaRana12&theme=dark&hide_border=false" alt="Talha's Streak" />
 
 <br/>
-
 
