@@ -11,10 +11,6 @@ I am currently learning about Machine Learning and Data Science.
 
 # 📊 GitHub Stats:
 
-<!-- Main Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=TalhaRana12&show_icons=true&theme=dark&hide_border=false" alt="Talha's Stats" />
-
-<br/>
 
 <!-- Streak Stats Card (Stable Link) -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalhaRana12&theme=dark&hide_border=false" alt="Talha's Streak" />
