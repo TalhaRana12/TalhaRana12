@@ -21,17 +21,4 @@ I am currently learning about Machine Learning and Data Science.
 
 <br/>
 
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaRana12&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
-
-# 📈 Activity Graph:
-<!-- Wavy Activity Chart -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TalhaRana12&theme=tokyonight" width="100%" alt="Activity Graph" />
-
----
-
-<!-- Visitor Counter -->
-<p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=TalhaRana12&icon=0&color=0" alt="Visitor Count" />
-</p>
 
