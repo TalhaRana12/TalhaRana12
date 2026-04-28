@@ -1,4 +1,4 @@
-# Hey there, I'm Talha Rana 👋
+<h1 align="center">Hi 👋, I'm Talha Rana</h1>
 
 ### Full-Stack Developer | AI Enthusiast | Building things that matter
 
@@ -65,20 +65,11 @@ I love working at the intersection of **web development and AI** — where inter
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TalhaRana12&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Talha's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalhaRana12&theme=dark&hide_border=false" alt="Talha's Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaRana12&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Talha's Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=TalhaRana12&icon=0&color=0" alt="Profile Views" />
-</p>
+<!-- Streak Stats Card (Stable Link) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TalhaRana12&theme=dark&hide_border=false" alt="Talha's Streak" />
 
 ---
 
